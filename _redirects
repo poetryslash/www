@@ -1,0 +1,4 @@
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://poetryslash.netlify.com/* https://poetryslash.com/:splat 301!
