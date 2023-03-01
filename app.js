@@ -30,7 +30,7 @@ const COLORS = [
 ]
 
 const WORDS = [
-  '25',
+  '29',
   'ABRIL',
   'CASA',
   'COMPUTACIONAL',
@@ -46,7 +46,7 @@ const WORDS = [
 ]
 
 const WORDS_EN = [
-  '25',
+  '29',
   'APRIL',
   'CASA',
   'COMPUTATIONAL',
