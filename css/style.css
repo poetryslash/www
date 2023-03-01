@@ -184,10 +184,10 @@ h3 {
 }
 
 .Floppy {
-  width: 50%;
+  width: 50vw;
   position: absolute;
   margin-top: 400px;
-  right: -300px;
+  right: -200px;
 }
 .Floppy img {
   width: 100%;
@@ -195,8 +195,9 @@ h3 {
 
 .Keyboard {
   position: absolute;
-  width: 80vw;
-  left: -700px;
+  width: 70vw;
+  left: -400px;
+  top: 4em;
 }
 .Keyboard img {
   width: 100%;
