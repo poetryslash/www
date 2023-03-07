@@ -30,7 +30,7 @@ const COLORS = [
 ]
 
 const WORDS = [
-  '29',
+  '28',
   'ABRIL',
   'CASA',
   'COMPUTACIONAL',
@@ -41,12 +41,12 @@ const WORDS = [
   'POETRY SLASH',
   'POETRY',
   'SLASH',
-  'SÁBADO',
+  'VIERNES',
   'MADRID'
 ]
 
 const WORDS_EN = [
-  '29',
+  '28',
   'APRIL',
   'CASA',
   'COMPUTATIONAL',
@@ -57,7 +57,7 @@ const WORDS_EN = [
   'POETRY SLASH',
   'POETRY',
   'SLASH',
-  'SATURDAY',
+  'FRIDAY',
   'MADRID'
 ]
 
