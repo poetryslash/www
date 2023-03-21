@@ -97,8 +97,13 @@ h3 {
   font-size: 1.4em;
   line-height: 135%;
   max-width: 1400px;
-  width: 100%;
-  margin: 4em auto;
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
+
+.Content {
+  width: 90%;
+  margin: auto;
 }
 
 /* ----------------------- */
@@ -566,13 +571,18 @@ h3 {
   .Intro {
     width: 80%;
     max-width: auto;
-    margin: 2em 0;
+    margin: 3em 0;
   }
   .Form {
     position: relative;
     width: 755px;
     padding: 24px 48px 0 48px;
     margin: 100px 0 20px 0;
+  }
+
+  .Content {
+    width: 100% !Important;
+    margin: auto;
   }
 }
 
