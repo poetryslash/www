@@ -449,7 +449,7 @@ h3 {
   .Inner {
     padding: var(--spacing-regular);
   }
-  .Intro {
+  .Inner .Intro {
     width: 100%;
   }
   .Header img {
@@ -498,6 +498,10 @@ h3 {
   .Submit__button {
     width: 100%;
     margin: 0 0 var(--spacing-regular);
+  }
+  .Section.Form {
+    width: 100%;
+    padding: var(--spacing-regular);
   }
   .Form__coc {
     font-size: var(--font-size-small);
